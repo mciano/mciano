@@ -16,7 +16,7 @@
  ##
   <div align="center">
    <img align="center" alt="Raul-Linux" height="30" width="60" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-   <img align="center" alt="Raul-Kali" height="30" width="60" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+   <img align="center" alt="Raul-Kali" height="30" width="60" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white>
    <img align="center" alt="Raul-Kali" height="30" width="60" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">   
    </div>
   
