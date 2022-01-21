@@ -13,14 +13,15 @@
    <div style="display: inline_block" align="center"><br>
    <img align="center" alt="Rafa-Js" height="30" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
- ##
+ 
+  
   <div align="center">
    <img align="center" alt="Raul-Linux" height="30" width="60" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
    <img align="center" alt="Raul-Kali" height="30" width="60" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
    <img align="center" alt="Raul-Kali" height="30" width="60" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">   
    </div>
   
-  ##
+##
   
   <div align="center"> 
   <a href="https://instagram.com/mciano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
