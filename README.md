@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @mciano
-- 👀 I’m interested in Data Analytics / Logistics and Finance automatization solutions. 
-- 🌱 I’m currently learning coding in Python, SLQ.
-- 💞️ I’m looking to collaborate on Logistics and Finance solutions
-- 📫 How to reach me https://linktr.ee/Marcio.Ciano
+<div align="center">
+  <h1> <em> Hi, this Marcio Ciano 👋</em></h1>
+  <h4> <em>🧑‍🎓 Bootcamper of Data Science at UofT 🇨🇦 </em></h4>
+  <h4> <em>💻 Currently studying Python, SQL and JS. </em></hr>
+  <h4> <em>🔑 Looking to collaborate on ⚓Logistics and 💰Finance solutions </em> </h4>
+ </div>
+ <div align="center">
+   <a href="https://github.com/mciano">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mciano&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mciano&layout=compact&langs_count=7&theme=gotham"/>
 
-<!---
-mciano/mciano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ </div>
+   <div style="display: inline_block" align="center"><br>
+   <img align="center" alt="Rafa-Js" height="30" width="64" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+ ##
+  <div align="center">
+   <img align="center" alt="Raul-Linux" height="30" width="60" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+   <img align="center" alt="Raul-Kali" height="30" width="60" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+   <img align="center" alt="Raul-Kali" height="30" width="60" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">   
+   </div>
+  
+  ##
+  
+  <div align="center"> 
+  <a href="https://instagram.com/mciano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mciano23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marciorciano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
