@@ -2,7 +2,7 @@
   <h1> <em> Hi , this is Marcio Ciano 👋</em></h1>
   <h4> <em>🧑‍🎓 Bootcamper of Data Science at UofT 🇨🇦 </em></h4>
   <h4> <em>💻 Currently studying Python, SQL and JS. </em></hr>
-  <h4> <em>🔑 Looking to collaborate on ⚓Logistics and 💰Finance solutions </em> </h4>
+  <h4> <em>🔑 Looking to collaborate on ⚓ Logistics and 💰 Finance solutions </em> </h4>
  </div>
  <div align="center">
    <a href="https://github.com/mciano">
